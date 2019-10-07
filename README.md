@@ -2,7 +2,7 @@
 
 #LEARNING
 
-first line in readme file 
+first line in readme file edit from local
 
 here i define my variables 
 
