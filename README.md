@@ -2,7 +2,7 @@
 
 #LEARNING
 
-first line in readme file 
+first line in readme file Edit from the remote 
 
 here i define my variables 
 
